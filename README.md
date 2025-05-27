@@ -20,6 +20,6 @@ This project helped me learn how advanced models process language and emotions�
 
 👨‍💻 Try It
 
-Open the notebook in Google Colab, enter your own sentences, and see how the model understands and reacts to emotions in text. s!
+Open the notebook in Google Colab, save a copy of the file in drive and run the `.ipynb` notebook in [Google Colab](https://colab.research.google.com/drive/1yyoZZVZJSiD5kYklIN6vLMoH0S14Ovyo?usp=sharing). Then enter your own sentences, and see how the model understands and reacts to emotions in text. s!
 Based on the detected emotion and its confidence, the program provides a thoughtful response matching the mood for these 7        emotions only.
    
